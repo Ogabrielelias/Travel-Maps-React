@@ -36,7 +36,7 @@ Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou correç
 
 ### Imagens
 <div style="display:flex;">
-    <img src="https://github.com/Ogabrielelias/Travel-Maps-React/assets/64456754/f23eec5e-ddab-49d4-a7dc-c23bc865db05"/>
-    <img src="https://github.com/Ogabrielelias/Travel-Maps-React/assets/64456754/4aa44195-88ca-4993-af2d-9d82020ef4af"/>
-    <img src="https://github.com/Ogabrielelias/Travel-Maps-React/assets/64456754/b4f453ad-eb6b-4c97-8a65-30042dd9b208"/>
+    <img src="https://github.com/Ogabrielelias/Travel-Maps-React/assets/64456754/777128ec-0090-4a45-b7e7-de69d3500bff"/>
+    <img src="https://github.com/Ogabrielelias/Travel-Maps-React/assets/64456754/1c63f005-2000-48e6-8ccf-8be9fe49a0c9"/>
+    <img src="https://github.com/Ogabrielelias/Travel-Maps-React/assets/64456754/0fb54a11-1898-468b-82fe-a9380793008f"/>
 </div>
