@@ -13,7 +13,7 @@ Exibe informações detalhadas sobre cada local, incluindo avaliações e certif
 Mapa interativo que permite aos usuários explorar a região e descobrir novos lugares.
 
 ### Instalação
-Clone o repositório: git clone https://github.com/seu/Travel-Maps-React.git
+Clone o repositório: git clone https://github.com/Ogabrielelias/Travel-Maps-React
 
 Navegue até o diretório do projeto: cd travel-maps-react
 
